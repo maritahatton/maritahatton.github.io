@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-navbarText: Palo Alto, CA
+navbarText: Rexford, NY
 ---
 
 <!-- HERO -->
@@ -18,7 +18,7 @@ navbarText: Palo Alto, CA
       Adventure Begins Here
     </h1>
     <p class="max-w-2xl mx-auto mt-4 text-lg sm:text-xl">
-      Join <span class="font-semibold">Pack 57</span> — where every child explores, belongs, and leads.
+      Join <span class="font-semibold">Troop 4030</span> — where every child explores, belongs, and leads.
     </p>
     <div class="flex flex-wrap justify-center gap-4 mt-8">
       <a href="/join" class="inline-flex items-center px-6 py-3 font-bold transition bg-yellow-400 rounded-xl text-slate-900 hover:bg-yellow-300">
