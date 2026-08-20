@@ -7,7 +7,7 @@ permalink: /about/
     <div>
         <h2 class="text-2xl font-bold text-cub-blue">Why We Exist</h2>
         <p class="mt-4 text-lg leading-7">
-            Pack 57 exists to build character in young people. In a world of screens and structured activities, Cub
+            Troop 4030 exists to build character in young people. In a world of screens and structured activities, 
             Scouting offers something different: authentic adventures where children discover their capabilities,
             connect with nature, and develop the values that shape good citizens and future leaders.
         </p>
@@ -29,56 +29,6 @@ permalink: /about/
     </div>
 </div>
 
-<div class="max-w-4xl px-8 py-10 mx-auto mt-12 text-white shadow-lg rounded-3xl bg-scout-blue">
-  <h2 class="m-0 text-3xl font-extrabold tracking-tight text-center text-cub-gold">
-    Why Pack 57
-  </h2>
-
-  <div class="mt-6 space-y-4 text-base leading-7 md:text-lg md:leading-8">
-  <div class="flex flex-wrap gap-5 md:flex-nowrap">
-  <div class="min-w-[120px] mx-auto items-center flex-1">
-  <div class="mx-auto size-[85px] text-cub-blue leading-none border-cub-blue bg-cub-gold border-2 flex items-center">
-          <div class="flex flex-col items-center mx-auto">
-            <div class="font-extrabold w-full text-[0.6rem] flex justify-between uppercase">
-              <span class="tracking-[-0.1em] -ml-[0.6px]">P</span>
-              <span>A</span>
-              <span>C</span>
-              <span>K</span>
-            </div>
-            <div class="font-extrabold w-full text-[2.1rem] flex justify-between text-white">
-              <span class="-ml-[1.2px]">5</span>
-              <span class="-mr-[1.3px]">7</span>
-            </div>
-            <div class="text-[0.6rem] pt-1 mt-1 font-medium uppercase  border-t-cub-blue border-t-2 flex justify-between">
-              <span class="-ml-[0.7px]">EST.</span>
-              <span class="-mr-[0.25px]">1945</span>
-            </div>
-          </div>
-        </div>
-        </div>
-    <div>
-    <p>
-      Pack 57 is self-chartered, and that means we maintain our own charter directly with
-      Scouting America. Our independence is important because it gives us full control over
-      our program, activities, and direction. We welcome families from all backgrounds
-      without religious or institutional requirements. Our leadership and decision-making
-      comes directly from our parent volunteers.
-    </p>
-    <p class="mt-4">
-      Pack 57 truly belongs to our families and our community, creating an inclusive
-      environment where all children can experience the benefits of scouting.
-    </p>
-    </div>
-    </div>
-
-  </div>
-      <div class="flex">
-        <a href="/join"
-            class="px-6 py-3 mx-auto mt-5 font-bold transition bg-yellow-400 rounded-xl text-cub-blue hover:bg-yellow-300">
-            Join Pack 57
-        </a>
-    </div>
-</div>
 <div class="mt-16">
     <h2 class="text-2xl font-bold text-cub-blue">Scout Law</h2>
     <p class="mt-4 text-lg">These are the principles we teach our scouts. We hope they all grow up to be:</p>
@@ -178,7 +128,7 @@ permalink: /about/
 <div class="mt-16">
     <h2 class="text-2xl font-bold text-cub-blue">Leave No Trace Principles</h2>
     <p class="mt-4 text-lg">
-        Cub Scouts learn to enjoy and protect our natural world through these seven principles:
+        Scouts learn to enjoy and protect our natural world through these seven principles:
     </p>
 
     <div class="grid gap-6 mt-6 md:grid-cols-2">
@@ -223,7 +173,7 @@ permalink: /about/
 <div class="px-16 py-4 pt-8 mt-16 bg-white">
     <h2 class="text-2xl font-bold text-cub-blue">Join Our Adventure</h2>
     <p class="mt-4 text-lg leading-7">
-        Pack 57 welcomes all children in kindergarten through fifth grade. Our volunteer-led program provides
+        Troop 4030 welcomes all youth ages 11-17. Our volunteer-led program provides
         age-appropriate activities that build character, foster citizenship, and develop physical and mental fitness—all
         while having fun and making memories that last a lifetime.
     </p>
