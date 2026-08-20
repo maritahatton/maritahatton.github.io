@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Contact Pack 57
+title: Contact Troop 30
 ---
 
-Please email `cubmaster@pack57paloalto.com` with any questions.
+Please email `SMJOE4030@gmail.com ` with any questions.
