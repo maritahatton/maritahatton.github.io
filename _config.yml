@@ -13,13 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Pack 57
-email: webmaster@pack57paloalto.com
-cubmaster_email: cubmaster@pack57paloalto.com
+title: Troop 4030
+email: marita.hatton@gmail.com
+cubmaster_email: SMJOE4030@gmail.com 
 description: >- # this means to ignore newlines until "baseurl:"
-  Cub Scout Pack 57 of Palo Alto, California. We provide fun, character-building adventures
-  for K-5th grade youth through outdoor activities, STEM projects, and community service.
-  Join us for camping, Pinewood Derby races, and much more!
+  Scouting America Troop 4030 of Rexford NY. We provide fun, character-building adventures
+  for youth ages 11-17 through outdoor activities, STEM projects, and community service.
+  Join us!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
