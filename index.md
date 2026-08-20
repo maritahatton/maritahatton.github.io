@@ -37,10 +37,10 @@ navbarText: Rexford, NY
     <div class="grid items-center gap-10 px-6 py-10 sm:px-10 sm:py-14 lg:grid-cols-[1.15fr_1fr] lg:gap-14 lg:px-14">
 
       <div class="order-2 lg:order-1">
-        <a href="/assets/docs/pack57-2026-2027-overview.pdf"
+        <a href="/assets/docs/Troop 4030-About Us-2.pdf"
            target="_blank" rel="noopener"
            class="block group py-6"
-           aria-label="Download Pack 57's 2026 to 2027 program overview as a PDF">
+           aria-label="Download Troop 4030 About Us">
           <div class="relative max-w-[88%] mx-auto">
             <div class="absolute inset-x-0 top-0 overflow-hidden bg-white rounded-xl shadow-xl ring-1 ring-white/10 transform translate-x-6 translate-y-3 rotate-3 opacity-90">
               <img src="/assets/images/pack57-overview-preview-2-top.png"
@@ -201,14 +201,14 @@ navbarText: Rexford, NY
   </div>
 </section>
 
-<!-- WHY CUB SCOUTING -->
+<!-- WHY SCOUTING -->
 <section class="max-w-6xl px-4 py-16 mx-auto">
   <div class="grid items-center gap-10 md:grid-cols-2">
     <div>
-      <h2 class="text-3xl font-extrabold tracking-wide uppercase sm:text-4xl text-cub-blue">Why Cub Scouting?</h2>
+      <h2 class="text-3xl font-extrabold tracking-wide uppercase sm:text-4xl text-cub-blue">Why Scouting?</h2>
       <p class="mt-4 text-lg leading-7">
-        Scouting America welcomes every family to discover outdoor adventure, community, and character. In Pack 57,
-        kids build confidence and leadership through hands-on experiences — and have a blast doing it.
+        Scouting America welcomes every family to discover outdoor adventure, community, and character. In Troop 4030,
+        youth build confidence and leadership through hands-on experiences — and have a blast doing it.
       </p>
       <ul class="mt-6 space-y-3">
         <li class="flex items-start gap-3"><span class="mt-1">🌲</span> <span>Outdoor skills, hikes, and campouts</span></li>
@@ -218,7 +218,7 @@ navbarText: Rexford, NY
       </ul>
       <div class="mt-6">
         <a href="/about" class="inline-flex items-center px-5 py-3 font-semibold text-white transition rounded-lg bg-slate-900 hover:bg-slate-800">
-          Learn About Pack 57
+          Learn About Troop 4030
         </a>
       </div>
     </div>
@@ -237,7 +237,7 @@ navbarText: Rexford, NY
   <div class="max-w-6xl px-4 py-16 mx-auto">
     <h2 class="text-3xl font-extrabold tracking-wide text-center uppercase sm:text-4xl text-cub-blue">What We Do</h2>
     <p class="max-w-2xl mx-auto mt-3 text-center">
-      A quick look at our favorite pack and den activities.
+      A quick look at our favorite activities.
     </p>
     <div class="grid gap-6 mt-10 sm:grid-cols-2 lg:grid-cols-4">
       <!-- Card -->
